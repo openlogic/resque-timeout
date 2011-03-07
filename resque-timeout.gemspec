@@ -21,6 +21,7 @@ Gem::Specification.new do |s|
     "VERSION",
     "lib/resque-timeout.rb",
     "lib/resque/plugins/timeout.rb",
+    "resque-timeout.gemspec",
     "spec/resque-timeout_spec.rb",
     "spec/resque/plugins/timeout_spec.rb",
     "spec/spec.opts",
