@@ -13,4 +13,4 @@ To set the timeout (in seconds, default is 600):
 
 To turn it off (it is on by default):
 
-    Resque::Plugins::Timeout.switch = :off:
+    Resque::Plugins::Timeout.switch = :off
