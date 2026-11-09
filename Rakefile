@@ -10,7 +10,7 @@ begin
     gem.email = "jeff.gran@gmail.com"
     gem.homepage = "http://github.com/jeffgran/resque-timeout"
     gem.authors = ["Jeff Gran"]
-    gem.add_dependency "resque", "~>1.0"
+    gem.add_dependency "resque", ">= 1.0"
     gem.add_development_dependency "rspec", ">= 1.2.9"
     # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
   end
